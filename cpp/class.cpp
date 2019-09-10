@@ -5,9 +5,12 @@ class student
 {
     int id;
     char name[20];
+
 public:
     void readdata();//fun declartion
 };
+
+
 void student :: readdata()//outside declaration
 {
     cin>>id>>name;
