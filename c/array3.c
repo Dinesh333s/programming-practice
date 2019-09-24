@@ -19,7 +19,7 @@ for(i=0;i<n+1;i++)
 printf("%d ",arr[i]);
 }
 }
-/* dupicate element in array
+/* count dupicate element in array
 #include<stdio.h>
 int main()
 {
